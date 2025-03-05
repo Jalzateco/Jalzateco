@@ -1,6 +1,18 @@
 ## Hi, I am Jalzateco 👋
 
-🧑‍💻 Systems Engineering Student at the National University of Colombia
+🧑‍💻 Systems Engineering Student at the National University of Colombia ⚒️
+
+#Programming Languages: 🖥️
+- Python
+- JavaScript
+
+Tools & Technologies: ⌨️
+- Linux
+- Git
+- MySQL
+- Django
+
+
 <!-- 
 **Jalzateco/Jalzateco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
