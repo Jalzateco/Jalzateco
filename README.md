@@ -2,11 +2,11 @@
 
 🧑‍💻 Systems Engineering Student at the National University of Colombia ⚒️
 
-#Programming Languages: 🖥️
+# Programming Languages: 🖥️
 - Python
 - JavaScript
 
-Tools & Technologies: ⌨️
+# Tools & Technologies: ⌨️
 - Linux
 - Git
 - MySQL
