@@ -15,8 +15,8 @@ I always like to learn new things and know how they work
 - Django
 
 # 🔥 What I'm Working On:
-- Exploring technologies
-- Learning new languages
+- Exploring new technologies
+- Learning languages
 
 
 <!-- 
