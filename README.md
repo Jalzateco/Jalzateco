@@ -1,6 +1,8 @@
 # Hi, I am Jalzateco 👋
 
-🧑‍💻 Systems Engineering Student at the National University of Colombia ⚒️
+🧑‍💻 Systems Engineering Student at the National University of Colombia enthusiastic about programming, curious about new technologies ⚒️
+
+I always like to learn new things and know how they work
 
 ## Programming Languages: 🖥️
 - Python
