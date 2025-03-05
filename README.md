@@ -14,6 +14,10 @@ I always like to learn new things and know how they work
 - MySQL
 - Django
 
+# 🔥 What I'm Working On:
+- Exploring technologies
+- Learning new languages
+
 
 <!-- 
 **Jalzateco/Jalzateco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
